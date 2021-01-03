@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 import config
 import logging
 import pprint
-token = '1119364128:AAHEplrr0lPkDZ_GyNtes6dbQWyQ6tNj2Tk'
+token = 'TOKEN'
 
 ADMIN = 155358934
 bot = telebot.AsyncTeleBot(token=token, skip_pending=False,
